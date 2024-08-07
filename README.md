@@ -4,13 +4,22 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Inside this project the screens are divided into sub small screens to make code cleaner
+create separate screen for Drawer 
+create separate screen for Tabs
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Below are Some Screenshots of the App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screen1
+![Screen 1](assets/images/screen1.jpg)])
+
+### Screen2
+![Screen 2](assets/images/screen2.jpg)])
+
+### Screen3
+![Screen 3](assets/images/screen3.jpg)])
+
+### Screen4
+![Screen 4](assets/images/screen4.jpg)])
